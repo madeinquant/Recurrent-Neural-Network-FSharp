@@ -1,1 +1,1 @@
-Recurrent-Neural-Network-F#
+Recurrent Neural Network in F#
